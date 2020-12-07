@@ -1,0 +1,52 @@
+@font-face{font-family:flaticon;src:url(../fonts/Flaticon.eot);src:url(../fonts/Flaticond41d.eot?#iefix) format("embedded-opentype"),url(../fonts/Flaticon.html) format("woff2"),url(../fonts/Flaticon.woff) format("woff"),url(../fonts/Flaticon.ttf) format("truetype"),url(../fonts/Flaticon.svg#Flaticon) format("svg");font-weight:400;font-style:normal}@media screen and (-webkit-min-device-pixel-ratio:0){@font-face{font-family:flaticon;src:url(../fonts/Flaticon.svg#Flaticon) format("svg")}}[class^=flaticon-],[class*=" flaticon-"]{line-height:1}[class^=flaticon-]:before,[class*=" flaticon-"]:before,[class^=flaticon-]:after,[class*=" flaticon-"]:after{font-family:Flaticon;font-style:normal}.flaticon-factory:before{content:"\f100"}.flaticon-industrial-robot:before{content:"\f101"}.flaticon-worker:before{content:"\f102"}.flaticon-assembly-line:before{content:"\f103"}.flaticon-tank-truck:before{content:"\f104"}.flaticon-factory-1:before{content:"\f105"}.flaticon-conveyor:before{content:"\f106"}.flaticon-loader:before{content:"\f107"}.flaticon-worker-1:before{content:"\f108"}.flaticon-industrial-robot-1:before{content:"\f109"}.flaticon-industrial-robot-2:before{content:"\f10a"}.flaticon-gear:before{content:"\f10b"}.flaticon-tanks:before{content:"\f10c"}.flaticon-industrial-robot-3:before{content:"\f10d"}.flaticon-refinery:before{content:"\f10e"}.flaticon-power-plant:before{content:"\f10f"}.flaticon-van:before{content:"\f110"}.flaticon-control-system:before{content:"\f111"}.flaticon-3d-printer:before{content:url('../img/buildings.png');}.flaticon-3d-bim:before{content:url('../img/2.png')}.flaticon-generator:before{content:"\f113"}
+
+.flaticon-model:before{
+	content:url('../img/6.png')
+}
+.flaticon-model:hover{
+	color: white;
+	content:url('../img/6.png')
+}
+.flaticon-cad:before{
+	content:url('../img/1.png')
+}
+.flaticon-scan:before{
+	content:url('../img/8.png')
+}
+.flaticon-laser:before{
+	content:url('../img/7.png')
+}
+.flaticon-quant:before{
+	content:url('../img/3.png')
+}
+.flaticon-clash:before{
+	content:url('../img/4.png')
+}
+.flaticon-simulation:before{
+	content:url('../img/5.png')
+}
+.flaticon-3d-civil:before{
+	content:url('../img/plumbing.png')
+}
+.flaticon-building:before{
+	content:url('../img/renovation.png')
+}
+.flaticon-structural:before{
+	content:url('../img/structure.png')
+}
+.flaticon-interior:before{
+	content:url('../img/furnitures.png')
+}
+.flaticon-3d-archi:before{
+	content: url('../img/buildings.png');
+
+}
+.flaticon-landscape:before{
+	content: url('../img/park.png');
+}
+.flaticon-project:before{
+	content: url('../img/clipboard.png');
+}
+.flaticon-construction:before{
+	content: url('../img/construction.png');
+}
