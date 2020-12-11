@@ -158,7 +158,7 @@
         smartSpeed: 500,
         nav: true,
         navText: ['<i class="fa fa-caret-left"></i>', '<i class="fa fa-caret-right"></i>'],
-        dots: false,
+        dots: true,
         responsive : {
             0 : {
                 items: 1
@@ -208,10 +208,10 @@
     $('#testimonial-carousel').owlCarousel({
         loop: true,
         margin: 10,
-        center: false,
+        center: true,
         autoplay: true,
         smartSpeed: 500,
-        nav: false,
+        nav: true,
         navText: ['<i class="fa fa-caret-left"></i>', '<i class="fa fa-caret-right"></i>'],
         dots: true,
         responsive : {
@@ -225,7 +225,7 @@
                 items: 1,
             },
             992 : {
-                items: 2,
+                items: 1,
             }
         }
     });
