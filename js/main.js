@@ -183,7 +183,7 @@
         margin: 5,
         autoplay: true,
         smartSpeed: 500,
-        nav: false,
+        nav: true,
         navText: ['<i class="fa fa-caret-left"></i>', '<i class="fa fa-caret-right"></i>'],
         dots: true,
         responsive : {
